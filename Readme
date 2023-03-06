@@ -1,2 +1,6 @@
-Multiple  Disease  Prediction  Using  DeepLearning
-In the current time of after pandemic people prefer to be home treated and to ensure they avoid contaminated places such as hospitals and clinics as much as possible. Our project aims to provides a user friendly platform to cross validate results at go and to spread general awareness and provide precautionary measures.
+Multiple  Disease  Prediction  Using  Deep Learning
+In the current time of after pandemic people prefer to be home treated and to ensure they avoid contaminated places such as hospitals and clinics as much as possible. 
+The medical industry generates a huge amount of patient data which can be processed in a lot of ways. So, with the help of deep learning, we wanted to create a Prediction System that can detect more than one disease at a time.
+Our project aims to provides a user-friendly platform to cross validate results at go and to spread general awareness and provide precautionary measures.
+We have considered two diseases for now that are Pneumonia and Heart in the future, many more diseases can be added.
+This project can help a lot of people as one can monitor the persons’ condition and take the necessary precautions thus increasing the life expectancy.
